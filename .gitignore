@@ -19,3 +19,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Exported gerber files (will be packaged as ZIP manually)
+gerber/
